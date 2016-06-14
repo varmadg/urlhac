@@ -23,7 +23,7 @@
 *.tar
 *.zip
 *.pydev
-*.swp
+
 # Logs and databases #
 ######################
 *.log
